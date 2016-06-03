@@ -1,13 +1,11 @@
 Programming assignments for L3Cube Sponsorship
 
-
-1. Is Birthday paradox really valid?
+ Is Birthday paradox really valid?
 
 Write a code that verifies - birthday paradox is indeed correct.
-(Note : Think of ways you could run 'random experiments'. We agree this problem is hard.)
 
 
-2. Simple version control
+ Simple version control
 
 GOAL: Create a simple version control (svc) program called svc.
 
