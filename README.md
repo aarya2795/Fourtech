@@ -1,5 +1,5 @@
 # Fourtech
-Problem Statement
+Problem Statement:- 
 Is Birthday paradox really valid?
 
 Write a code that verifies - birthday paradox is indeed correct.
